@@ -28,7 +28,7 @@ ipython-genutils==0.2.0
 isort==4.3.21
 itsdangerous==1.1.0
 jedi @ file:///C:/ci/jedi_1592833832328/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 jsonify==0.5
 jsonschema==3.2.0
 jupyter-client==6.1.3
